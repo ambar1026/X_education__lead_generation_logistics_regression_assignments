@@ -18,4 +18,7 @@ data.csv                                 - Cleaned dataset for powerBI
 
 Leads.csv                                - Raw dataset
 
+Leads Data Dictionary.xlsx               - Data Dictionary 
+
 logistic_regression_presentation3.pptx   - Presentation on logistics regression
+
