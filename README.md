@@ -5,6 +5,7 @@ The following predictions are provided for educational and informational purpose
 
 ## Files description 
 Dashboard.png                            - dashboard image
+
 prediction.png                           - prediction dashboard image
 Lead_generation dashboard.pbix           - powerBI file
 Report on logistics regression1.docx     - logistics regression report
